@@ -1,0 +1,98 @@
+#container {
+    margin: 0 auto;
+    border: solid 1px black;
+    width: 1000px;
+}
+
+#header {
+    border: solid 1px blue;
+    height: 150px;
+}
+
+#logo {
+    background-color: lightblue;
+    width: 300px;
+    height: 130px;
+    margin: 10px;
+    float: left;
+}
+
+#top-menu {
+    background-color: lightskyblue;
+    width: 560px;
+    height: 130px;
+    margin: 10px;
+    float: right;
+}
+
+#headline {
+    border: solid 1px green;
+}
+
+#headline-pic {
+    width: 558px;
+    height: 300px;
+    background-color: lightgreen;
+    float: left;
+    margin: 10px;
+}
+
+#headline-detail {
+    width: 400px;
+    background-color: darkgreen;
+    height: 300px;
+    float: right;
+    margin: 10px;
+}
+
+#main {
+    border: solid 1px brown;
+}
+
+#news {
+    width: 280px;
+    height: 500px;
+    background-color: blueviolet;
+    float: left;
+    margin: 10px;
+}
+
+#vdo {
+    width: 670px;
+    height: 500px;
+    background-color: goldenrod;
+    float: right;
+    margin: 10px;
+}
+
+#vdo-sample,
+#vdo-detail {
+    width: 330px;
+    height: 500px;
+}
+
+#vdo-sample {
+    background-color: #df5;
+    float: left;
+}
+
+#vdo-detail {
+    background-color: maroon;
+    float: right;
+}
+
+#footer {
+    border: solid 1px gray;
+}
+
+#footer-link {
+    width: 239px;
+    height: 150px;
+    background-color: #ccc;
+    margin: 5px;
+    float: left;
+}
+
+.clearfloat {
+    clear: both;
+}

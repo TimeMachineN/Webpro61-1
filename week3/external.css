@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+hr {
+    border: dashed 1px blue;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 30px;
+    padding: 20px;
+}
